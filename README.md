@@ -9,7 +9,7 @@ This is a simple Java desktop application for managing students, lecturers, and 
 - **Lecturer Panel**: View courses they teach, view students in their courses
 
 ## How to Run
-1. **Navigate to the `PART1 NEW 3` folder** in your terminal.
+1. **Navigate to the `Java Project` folder** in your terminal.
 2. **Compile all Java files:**
    ```sh
    javac *.java
