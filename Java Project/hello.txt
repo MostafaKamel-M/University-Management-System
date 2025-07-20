@@ -1,0 +1,11 @@
+run main.java
+for admin user id:1,name:admin
+create student & Lecturer
+assign lecturer to course.
+login with student id & name you created.
+student can register for course(3 trimesters as stated in assignment)
+data stored in course.csv, Header: CourseName,CourseCode,LecturerName,LecturerCode;StudentId,Trimester;   //can add multiple students
+
+
+things to add: feature 5, lectures can view data(students in their courses) from course.csv
+feature 6, admin can view all students and lectures for courses(basically everything), all data in course.csv.
