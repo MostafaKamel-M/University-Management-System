@@ -59,5 +59,3 @@ This is a simple Java desktop application for managing students, lecturers, and 
 - You can edit the CSV files manually to add or remove users/courses if needed.
 
 ---
-
-**Enjoy using the University Management System!** 
